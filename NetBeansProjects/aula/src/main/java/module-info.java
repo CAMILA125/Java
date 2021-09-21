@@ -1,0 +1,3 @@
+module Interfaces {
+	exports exercicios;
+}
